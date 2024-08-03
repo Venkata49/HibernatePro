@@ -6,7 +6,7 @@ import javax.persistence.Id;
 
 @Entity	//Represent mapping class to hibernate..
 
-// MySql - emp , TableName - Employe
+// MySql - emp , TableName - Employe.
 public class Employee {
 	
 	@Id	//Represent primary key..
